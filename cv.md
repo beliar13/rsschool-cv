@@ -1,7 +1,7 @@
 1. ***Name:*** Denis ***Last Name:*** Sevostyanov
 2. ***Contact info:**
-github: beliar13
-discord: Denis Sevostyanov (beliar13)
+   - github: beliar13
+   - discord: Denis Sevostyanov (beliar13)
 3. ***About me:*** like to eat, sleep
 4. ***Skills:*** i have some basic skills in programming
 5. ***Code examples:***
