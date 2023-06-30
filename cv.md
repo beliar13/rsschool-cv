@@ -1,5 +1,5 @@
 1. ***Name:*** Denis ***Last Name:*** Sevostyanov
-2. ***Contact info:**
+2. ***Contact info:***
    - github: beliar13
    - discord: Denis Sevostyanov (beliar13)
 3. ***About me:*** like to eat, sleep
