@@ -7,4 +7,4 @@ discord: Denis Sevostyanov (beliar13)
 5. ***Code examples:***
 6. ***Job experience:*** NDA
 7. ***Education:*** NDA
-8. ***Languages:*** russian, ukrainian, english (a2-b1)
+8. ***Languages:*** english (a2-b1), russian, ukrainian 
