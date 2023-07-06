@@ -12,5 +12,6 @@ body {
     color: white;
     font-family: consolas;
     font-size: 10pt;
-    width: 200px;
+	margin-left: 50px;
+	width: 250px;
 }
