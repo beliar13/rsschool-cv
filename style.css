@@ -11,3 +11,17 @@ body {
 	margin-left: 50px;
 	width: 250px;
 }
+
+.flex-container {
+    display: flex;
+    max-width: 1440px;
+    max-height: 100px;
+    margin: 0 auto;
+  }
+
+  .flex-container > div {
+    background-color: #214678;
+    margin: 0 auto;
+    padding: 0px;
+  
+  }
