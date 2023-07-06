@@ -1,10 +1,6 @@
 body {
     background-color: #dedede;
   }
-  
-  body:focus {
-    outline: none;
-  }
 
 .scriptik {
     background-color: #424242;
