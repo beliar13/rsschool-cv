@@ -25,3 +25,11 @@ body {
     padding: 0px;
   
   }
+
+.main-layer {
+    max-width: 1440px;
+    margin: 0 auto;
+    flex-direction: column;
+    background-color: white;
+    padding: 0px;
+  }
