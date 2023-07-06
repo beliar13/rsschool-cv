@@ -5,13 +5,7 @@ body {
   body:focus {
     outline: none;
   }
-ol {
-    padding: 20px;
-  }
-  ol li {
-    padding: 5px;
-    margin-left: 35px;    
-  }
+
 .scriptik {
     background-color: #424242;
     border: none;
