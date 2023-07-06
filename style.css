@@ -33,3 +33,24 @@ body {
     background-color: white;
     padding: 0px;
   }
+
+  .main-text {
+    margin-left: 40px;
+    font-family: serif;
+  }
+
+.marked-text {
+        color: white;
+        background-color: #000000;
+        font-family: Verdana;
+        font-size: 18px;
+        margin-left: 30px;
+}
+
+.header-text {
+    font-weight: bold;
+    margin-left: 40px; 
+    font-size: 24px; 
+    color: white; 
+    font-family: verdana 
+}
