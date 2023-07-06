@@ -6,3 +6,12 @@ body {
   body:focus {
     outline: none;
   }
+
+.scriptik {
+    background-color: #424242;
+    border: none;
+    color: white;
+    font-family: consolas;
+    font-size: 10pt;
+    width: 200px;
+}
