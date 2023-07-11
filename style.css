@@ -65,3 +65,32 @@ body {
     color: white;
     text-align: center;
   }
+
+/*-- Nav start--*/
+.navigation-unorder-list {
+	width:1400px; 
+	margin: 0 auto;
+	height: 40px;
+	background-color: white;
+	
+}
+.navigation-list-item {
+	float: left;
+	list-style: none;
+	
+}
+
+.navigation-list-a {
+	display: block;
+	padding: 10px;
+	color: black;
+	background-color: white;
+	font-size: 24px;
+	font-weight: 800;
+
+}
+.navigation-list-a:hover {
+	background-color: #424244;
+	color: white;
+}
+/*-- Nav end--*/  
