@@ -12,19 +12,30 @@ body {
 	width: 250px;
 }
 
-.flex-container {
-    display: flex;
-    max-width: 1440px;
-    max-height: 100px;
-    margin: 0 auto;
-  }
+/* Header start*/
+header {
+  display: flex;
+  max-width: 1440px;
+  max-height: 100px;
+  margin: 0 auto;
 
-  .flex-container > div {
-    background-color: #214678;
-    margin: 0 auto;
-    padding: 0px;
-  
-  }
+}
+
+.header-content {
+  background-color: #214678;
+  margin: 0 auto;
+  padding: 0px;
+
+}
+
+.header-text {
+  font-weight: bold;
+  margin-left: 40px; 
+  font-size: 24px; 
+  color: white; 
+  font-family: verdana 
+}
+/* Header end*/
 
 .main-layer {
     max-width: 1440px;
@@ -47,13 +58,7 @@ body {
         margin-left: 30px;
 }
 
-.header-text {
-    font-weight: bold;
-    margin-left: 40px; 
-    font-size: 24px; 
-    color: white; 
-    font-family: verdana 
-}
+
 
 /*-- footer start--*/
 footer {
