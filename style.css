@@ -45,7 +45,8 @@ display: flex;
   flex-direction: column;
   background-color: white;
   padding: 0px;
-height: 100%;
+  height: 100%;
+  margin-bottom: 20px;
 }
 
 .marked-text {
